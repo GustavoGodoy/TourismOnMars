@@ -1,7 +1,12 @@
-# gsfiap
+# Tourism On Mars
 
 A new Flutter project.
 
+Alunos
+
+- Gustavo Godoy RM84427
+- Rafael Giovanni RM86337
+- Gustavo Santos RM86506
 ## Getting Started
 
 This project is a starting point for a Flutter application.
